@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.zip
+database_real/
+captures/
+output/
+.venv/
+*.log
+datasets/
+.pytest_cache/
+.vscode/
+.idea/
+*.egg-info/
